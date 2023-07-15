@@ -1,6 +1,7 @@
 <h1>Welcome to the NJIT Flylanders Ratio Calculator</h1>
 This is a calculator created for the NJIT Flylanders SAE Aero Team.
 Its purpose is to calculate the volume ratio, aspect ratio, and taper ratio given other variables.
+![njitLogo](https://github.com/LindsayBurke-NJIT/aeroRatioCalculator/assets/128917724/8422d0e2-e23d-4563-afad-1850dcc436e8)
 
 <h1>To run the application on Windows (no Python interpreter needed):</h1>
 
