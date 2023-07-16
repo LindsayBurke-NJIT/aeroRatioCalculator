@@ -9,7 +9,7 @@ Its purpose is to calculate the volume ratio, aspect ratio, and taper ratio give
 4) Drag the application file into the taskbar to pin it for easy access.
 5) Run the executable.
 
-<h1>To run the application on another OS:</h1>
+<h1>To run the application on any other OS:</h1>
 
 1) Make sure that Python3 is installed on your system. If not, it can be found <a href="https://www.python.org/downloads/" target="_blank">here</a>.
 2) Download the raw zip file and unzip it.
